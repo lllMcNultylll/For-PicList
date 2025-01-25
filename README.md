@@ -1,2 +1,2 @@
-# For-PicGo
+# For-PicList
 useful images
